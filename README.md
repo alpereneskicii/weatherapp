@@ -1,12 +1,17 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/d5e4cfd4-4e12-43c6-9b1a-f70fa5d49c04)# 🌦️ Hava Durumu Uygulaması (WeatherAPI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React ile geliştirilmiş, gerçek zamanlı hava durumu sunan kullanıcı dostu bir uygulama.
 
-Currently, two official plugins are available:
+[![Demo](https://img.shields.io/badge/Canlı-Demo-brightgreen?style=for-the-badge)](https://weatherapp-of2hhb455-alpereneskiciis-projects.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Uploading image.png…]()
 
-## Expanding the ESLint configuration
+## ✨ Özellikler
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Gerçek Zamanlı Hava Durumu**
+  - Anlık sıcaklık, nem, rüzgar hızı
+  - Hava durumu ikonları ve dinamik arka plan
+- **Kullanıcı Deneyimi**
+  - Şehir arama geçmişi (LocalStorage)
+  - Konum izni ile otomatik veri çekme
+  - Mobil uyumlu tasarım
