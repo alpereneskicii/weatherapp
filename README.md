@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d5e4cfd4-4e12-43c6-9b1a-f70fa5d49c04)# 🌦️ Hava Durumu Uygulaması (WeatherAPI)
+![image](https://github.com/user-attachments/assets/d5e4cfd4-4e12-43c6-9b1a-f70fa5d49c04)
+# 🌦️ Hava Durumu Uygulaması (WeatherAPI)
 
 React ile geliştirilmiş, gerçek zamanlı hava durumu sunan kullanıcı dostu bir uygulama.
 
